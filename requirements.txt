@@ -1,0 +1,7 @@
+streamlit==1.24.1
+langchain-together
+langchain
+cohere
+textblob
+gTTS
+SpeechRecognition
