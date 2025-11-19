@@ -1,0 +1,231 @@
+{
+  "intents": [
+    {
+      "tag": "pain_relievers",
+      "patterns": [
+        "What can I take for pain?",
+        "Best medicine for headache?",
+        "I have body pain",
+        "Pain relief tablets",
+        "Medicine for back pain"
+      ],
+      "responses": [
+        "You can consider over-the-counter pain relievers such as Paracetamol (Crocin, Dolo 650) or Ibuprofen (Brufen, Advil). Please follow dosage instructions and consult your doctor if pain persists.",
+        "Common pain relief medicines include Dolo-650, Crocin, and Ibuprofen. Avoid overuse and check with a healthcare professional if you have chronic pain."
+      ]
+    },
+    {
+      "tag": "cold_and_flu",
+      "patterns": [
+        "I have a cold",
+        "Flu symptoms medicine",
+        "What to take for cough?",
+        "Remedy for sore throat",
+        "Fever and cold tablets"
+      ],
+      "responses": [
+        "For common cold and mild fever, Paracetamol, Cetrizine, and steam inhalation help. Stay hydrated and rest well.",
+        "You can use Paracetamol for fever, Antihistamines like Cetrizine for sneezing, and warm saline gargles for throat pain. If symptoms last more than 3 days, visit a doctor."
+      ]
+    },
+    {
+      "tag": "stomach_issues",
+      "patterns": [
+        "I have stomach pain",
+        "Medicine for acidity",
+        "What to take for gas?",
+        "Indigestion tablets",
+        "Acid reflux medicine"
+      ],
+      "responses": [
+        "For acidity or gas, you can use Pantoprazole (Pantocid) or Omeprazole before meals. Avoid spicy foods and carbonated drinks.",
+        "Common medicines include Digene, Eno, and Pantoprazole. If pain continues, consult a gastroenterologist."
+      ]
+    },
+    {
+      "tag": "allergies",
+      "patterns": [
+        "Medicine for allergy",
+        "I am sneezing a lot",
+        "Antihistamine tablets",
+        "Skin rash medicine",
+        "Allergy relief"
+      ],
+      "responses": [
+        "Antihistamines like Cetrizine or Loratadine can help with allergies. For severe reactions, seek medical attention immediately.",
+        "You may take Cetrizine (once daily) or Allegra for mild allergy symptoms. Always confirm with a doctor if it’s frequent."
+      ]
+    },
+    {
+      "tag": "antibiotics",
+      "patterns": [
+        "Should I take antibiotics?",
+        "When to use antibiotics?",
+        "Which antibiotic for infection?",
+        "Antibiotic tablets",
+        "Is Amoxicillin safe?"
+      ],
+      "responses": [
+        "Antibiotics like Amoxicillin, Azithromycin, and Ciprofloxacin are used only for bacterial infections. Never self-medicate; consult a doctor for proper prescription.",
+        "Antibiotics should be taken only under medical guidance to prevent resistance and side effects."
+      ]
+    },
+    {
+      "tag": "diabetes_medicine",
+      "patterns": [
+        "Medicine for diabetes",
+        "What is Metformin?",
+        "Type 2 diabetes treatment",
+        "Sugar control tablets",
+        "Insulin alternatives"
+      ],
+      "responses": [
+        "Metformin is a common first-line medicine for Type 2 diabetes. Other medicines include Glimepiride and Dapagliflozin. Always follow your doctor’s prescription.",
+        "For diabetes management, Metformin (Glycomet), Insulin injections, and lifestyle changes are important. Regular sugar monitoring is essential."
+      ]
+    },
+    {
+      "tag": "blood_pressure",
+      "patterns": [
+        "Medicine for high blood pressure",
+        "BP tablets",
+        "Hypertension medicine",
+        "How to control blood pressure",
+        "What is Amlodipine?"
+      ],
+      "responses": [
+        "Common BP medicines include Amlodipine, Telmisartan, and Metoprolol. Take them regularly as prescribed and monitor BP weekly.",
+        "Amlodipine and Telmisartan help lower high BP. Avoid salty foods and stress. Consult your doctor before any medication changes."
+      ]
+    },
+    {
+      "tag": "vitamins_and_supplements",
+      "patterns": [
+        "Best vitamin tablets",
+        "Multivitamin for energy",
+        "Iron supplement",
+        "Vitamin D deficiency",
+        "Calcium tablets"
+      ],
+      "responses": [
+        "Common supplements include Becosules (B-complex), Shelcal (Calcium), and Vitamin D3. Take them after meals and only if prescribed.",
+        "For general wellness, multivitamins like Revital or Supradyn can be used. Always follow dosage on the label."
+      ]
+    },
+    {
+      "tag": "first_aid",
+      "patterns": [
+        "Medicine for wound",
+        "I got a cut",
+        "Burn ointment",
+        "What to apply for scratches",
+        "First aid cream"
+      ],
+      "responses": [
+        "Clean the wound with antiseptic solution (Dettol, Savlon) and apply an antibiotic cream like Soframycin or Neosporin.",
+        "For burns or cuts, use Burnol or Silver Sulfadiazine ointment. Keep the area clean and covered."
+      ]
+    },
+    {
+      "tag": "general_query",
+      "patterns": [
+        "Can you recommend medicine?",
+        "I am not feeling well",
+        "Suggest treatment",
+        "I need help with medicine",
+        "Tell me which tablet to use"
+      ],
+      "responses": [
+        "I can provide general guidance, but please remember — always consult a certified medical professional before taking any medication.",
+        "I’m not a doctor, but I can share general information. If symptoms persist, seek medical help immediately."
+      ]
+    },
+    {
+      "tag": "nearby_hospitals",
+      "patterns": [
+        "Nearby hospitals",
+        "Hospitals in Warangal",
+        "Doctor in Telangana",
+        "I want to consult a doctor",
+        "Nearest hospital to me",
+        "Hospitals near Warangal"
+      ],
+      "responses": [
+        "Here are some hospitals in Warangal, Telangana you can contact:\n1. Apollo Reach NSR Hospital – Kothapeta X Roads, Arepally, Phone: +91 83411-33540\n2. Medicover Hospitals – Shyampet, Warangal, Phone: +91 91547-73602\n3. Rainbow Children’s Hospital – Hanamkonda, Phone: +91 080-4523-4422\n4. MGM Hospital – Warangal (Govt. hospital)\n5. Ajara Hospitals – Mulugu Road, Warangal, Phone: +91 94406-17478\n6. Balaji Hospital – Sun Road, Warangal, Phone: +91 98490-41616\n7. Life Line Hospital – Hanamkonda, Phone: +91 98480-73020\n8. Guardian Multi Speciality Hospital – Rangampet, Phone: +91 96524-31655\n9. Rohini Super Speciality Hospital – Hanamkonda\n10. Vasan Eye Care Hospital – Hanamkonda, Phone: +91 0870-3989000\n\nPlease contact them for appointments or emergencies."
+      ]
+    }
+  ],
+  "nearby_hospitals": [
+    {
+      "name": "Apollo Reach NSR Hospital",
+      "address": "Kothapeta X Roads, Arepally, Warangal, Telangana 506006",
+      "phone": "+91 83411-33540",
+      "specialties": ["Cardiology", "Neurology", "Orthopaedics", "General Medicine", "Emergency 24/7"],
+      "notes": "Multi-speciality hospital, 24×7 emergency & ICU services"
+    },
+    {
+      "name": "Medicover Hospitals, Warangal",
+      "address": "23-6-156/1, Shyampet, Warangal, Telangana",
+      "phone": "+91 91547-73602",
+      "specialties": ["Multispeciality", "Maternity & NICU", "Diagnostics", "Critical Care"],
+      "notes": "300+ bed facility with multidisciplinary services"
+    },
+    {
+      "name": "Rainbow Children’s Hospital & BirthRight, Warangal",
+      "address": "Brahmanawada, Machili Bazar, Hanamkonda, Telangana 506011",
+      "phone": "+91 080-4523-4422",
+      "specialties": ["Paediatrics", "Neonatology", "Obstetrics & Gynaecology"],
+      "notes": "Dedicated mother & child hospital with Level-3 NICU"
+    },
+    {
+      "name": "Mahatma Gandhi Memorial Hospital (MGM), Warangal",
+      "address": "Warangal, Telangana 506004",
+      "phone": null,
+      "specialties": ["General Medicine", "Gynaecology", "ENT", "Orthopaedics"],
+      "notes": "Large government-run teaching hospital"
+    },
+    {
+      "name": "Ajara Hospitals, Hanamkonda",
+      "address": "Ajara Cross Roads, Mulugu Road, Warangal, Telangana 506007",
+      "phone": "+91 94406-17478",
+      "specialties": ["General Medicine", "Gynaecology", "Paediatrics", "Neurology", "Orthopaedics"],
+      "notes": "Local multispeciality hospital on Mulugu Road"
+    },
+    {
+      "name": "Balaji Hospital",
+      "address": "#15-4-17, Opposite Ram Laxman Theatres, Sun Road, Warangal, Telangana 506002",
+      "phone": "+91 98490-41616",
+      "specialties": ["General Medicine", "Surgery", "Cardiology", "Diagnostics"],
+      "notes": "Well-known private hospital in central Warangal"
+    },
+    {
+      "name": "Life Line Hospital, Hanamkonda",
+      "address": "#2-4-152, Near Ambedkar Statue, Old Bus Depot Road, Hanamkonda, Warangal, Telangana 506002",
+      "phone": "+91 98480-73020",
+      "specialties": ["General Medicine", "Emergency Care", "Surgery"],
+      "notes": "Private hospital known in Hanamkonda area"
+    },
+    {
+      "name": "Guardian Multi Speciality Hospital",
+      "address": "15-1-237, Opp. L.B. College, Mulugu X Road, Rangampet, Warangal, Telangana 506007",
+      "phone": "+91 96524-31655",
+      "specialties": ["Multispeciality", "Dialysis Centre", "Surgery"],
+      "notes": "Networked multispeciality hospital"
+    },
+    {
+      "name": "Rohini Super Speciality Hospital",
+      "address": "Opposite Arts College, Hanamkonda, Warangal, Telangana 506001",
+      "phone": null,
+      "specialties": ["Super Speciality Surgery", "Cardiology", "Critical Care"],
+      "notes": "Super speciality hospital close to arts college area"
+    },
+    {
+      "name": "Vasan Eye Care Hospital, Warangal",
+      "address": "Door No: 6-1-135, 6/1/1936, Hanamkonda, Warangal, Telangana 506001",
+      "phone": "+91 0870-3989000",
+      "specialties": ["Ophthalmology", "Eye Surgery", "Optical Clinic"],
+      "notes": "Eye care hospital specialising in ophthalmology"
+    }
+]
+}
+

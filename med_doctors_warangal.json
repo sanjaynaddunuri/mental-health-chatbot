@@ -1,0 +1,4990 @@
+{
+  "intents": [
+    {
+      "tag": "Fever",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Ibuprofen 200mg"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Srinivas Varma",
+          "specialization": "Neurologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-943341057"
+        },
+        {
+          "name": "Dr. Harish Reddy",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-948078673"
+        },
+        {
+          "name": "Dr. Neha Rao",
+          "specialization": "Pediatrician",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-944903402"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Fever",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Ibuprofen 200mg"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Pooja Sharma",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-944698379"
+        },
+        {
+          "name": "Dr. Suresh Chowdary",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-943678638"
+        },
+        {
+          "name": "Dr. Swapna Singh",
+          "specialization": "Nephrologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-943608513"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Fever",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Ibuprofen 200mg"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Shwetha Patel",
+          "specialization": "Dermatologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-947374122"
+        },
+        {
+          "name": "Dr. Anjali Patel",
+          "specialization": "Ophthalmologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-945437923"
+        },
+        {
+          "name": "Dr. Neha Naik",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-947350753"
+        },
+        {
+          "name": "Dr. Ramesh Gowda",
+          "specialization": "Gynecologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-947067228"
+        }
+      ]
+    },
+    {
+      "tag": "Common Cold",
+      "medicines": [
+        "Cetirizine 10mg",
+        "Paracetamol 500mg"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Swapna Reddy",
+          "specialization": "Internal Medicine",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-945855124"
+        },
+        {
+          "name": "Dr. Ramesh Sharma",
+          "specialization": "Dermatologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-945663623"
+        },
+        {
+          "name": "Dr. Suresh Patel",
+          "specialization": "Pulmonologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-946960453"
+        },
+        {
+          "name": "Dr. Venkatesh Varma",
+          "specialization": "Pediatrician",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-943871230"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Common Cold",
+      "medicines": [
+        "Cetirizine 10mg",
+        "Paracetamol 500mg"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Priya Naik",
+          "specialization": "Psychiatrist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-944684531"
+        },
+        {
+          "name": "Dr. Naveen Patel",
+          "specialization": "Internal Medicine",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-941538552"
+        },
+        {
+          "name": "Dr. Mahesh Singh",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-944539704"
+        },
+        {
+          "name": "Dr. Rakesh Patel",
+          "specialization": "Cardiologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-947637601"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Common Cold",
+      "medicines": [
+        "Cetirizine 10mg",
+        "Paracetamol 500mg"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rajesh Varma",
+          "specialization": "ENT Specialist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-945408072"
+        },
+        {
+          "name": "Dr. Harish Chowdary",
+          "specialization": "Endocrinologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-947700828"
+        },
+        {
+          "name": "Dr. Divya Sharma",
+          "specialization": "ENT Specialist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-949279821"
+        },
+        {
+          "name": "Dr. Ramesh Rao",
+          "specialization": "Dermatologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-943684052"
+        },
+        {
+          "name": "Dr. Naveen Singh",
+          "specialization": "Emergency Medicine",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-947455324"
+        },
+        {
+          "name": "Dr. Karthik Chowdary",
+          "specialization": "Gastroenterologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-945218028"
+        }
+      ]
+    },
+    {
+      "tag": "Cough",
+      "medicines": [
+        "Dextromethorphan syrup",
+        "Guaifenesin syrup"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Naveen Reddy",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-946707197"
+        },
+        {
+          "name": "Dr. Anjali Varma",
+          "specialization": "Endocrinologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-948612220"
+        },
+        {
+          "name": "Dr. Srinivas Varma",
+          "specialization": "Urologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-949517485"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Cough",
+      "medicines": [
+        "Dextromethorphan syrup",
+        "Guaifenesin syrup"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Arun Varma",
+          "specialization": "Urologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-944337174"
+        },
+        {
+          "name": "Dr. Rajesh Patel",
+          "specialization": "Pulmonologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-949897858"
+        },
+        {
+          "name": "Dr. Srinivas Chowdary",
+          "specialization": "Nephrologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-941326765"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Cough",
+      "medicines": [
+        "Dextromethorphan syrup",
+        "Guaifenesin syrup"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Divya Varma",
+          "specialization": "Neurologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-945041154"
+        },
+        {
+          "name": "Dr. Rakesh Reddy",
+          "specialization": "Pediatrician",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-942161193"
+        },
+        {
+          "name": "Dr. Shwetha Gowda",
+          "specialization": "ENT Specialist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-948973915"
+        }
+      ]
+    },
+    {
+      "tag": "Sore Throat",
+      "medicines": [
+        "Lozenges",
+        "Benzydamine gargle"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Kiran Gowda",
+          "specialization": "Emergency Medicine",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-944553384"
+        },
+        {
+          "name": "Dr. Pooja Sharma",
+          "specialization": "Gynecologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-947264956"
+        },
+        {
+          "name": "Dr. Suresh Gowda",
+          "specialization": "Gastroenterologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-945159166"
+        },
+        {
+          "name": "Dr. Sunitha Reddy",
+          "specialization": "Nephrologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-944860684"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Sore Throat",
+      "medicines": [
+        "Lozenges",
+        "Benzydamine gargle"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Srinivas Reddy",
+          "specialization": "Internal Medicine",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-942130789"
+        },
+        {
+          "name": "Dr. Neha Patel",
+          "specialization": "Pediatrician",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-944993055"
+        },
+        {
+          "name": "Dr. Kiran Naik",
+          "specialization": "Cardiologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-943219824"
+        },
+        {
+          "name": "Dr. Harish Chowdary",
+          "specialization": "Physiotherapist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-945076817"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Sore Throat",
+      "medicines": [
+        "Lozenges",
+        "Benzydamine gargle"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rashmi Sharma",
+          "specialization": "Dermatologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-948231838"
+        },
+        {
+          "name": "Dr. Divya Singh",
+          "specialization": "Endocrinologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-941908841"
+        },
+        {
+          "name": "Dr. Naveen Reddy",
+          "specialization": "Internal Medicine",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-946692553"
+        },
+        {
+          "name": "Dr. Anjali Sharma",
+          "specialization": "Cardiologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-949997381"
+        },
+        {
+          "name": "Dr. Suresh Kumar",
+          "specialization": "Endocrinologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-945673212"
+        },
+        {
+          "name": "Dr. Suresh Sharma",
+          "specialization": "Pediatrician",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-942642635"
+        }
+      ]
+    },
+    {
+      "tag": "Flu (Influenza)",
+      "medicines": [
+        "Oseltamivir (if early)",
+        "Paracetamol"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Arun Gowda",
+          "specialization": "General Physician",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-944965789"
+        },
+        {
+          "name": "Dr. Priya Singh",
+          "specialization": "Dental Surgeon",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-944586084"
+        },
+        {
+          "name": "Dr. Karthik Rao",
+          "specialization": "Pulmonologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-941036161"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Flu (Influenza)",
+      "medicines": [
+        "Oseltamivir (if early)",
+        "Paracetamol"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Kiran Naik",
+          "specialization": "Gynecologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-949164991"
+        },
+        {
+          "name": "Dr. Rajesh Sharma",
+          "specialization": "Gynecologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-941981186"
+        },
+        {
+          "name": "Dr. Rakesh Gowda",
+          "specialization": "Internal Medicine",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-941959074"
+        },
+        {
+          "name": "Dr. Neha Chowdary",
+          "specialization": "Dental Surgeon",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-949910817"
+        },
+        {
+          "name": "Dr. Priya Rao",
+          "specialization": "Urologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-944117625"
+        },
+        {
+          "name": "Dr. Ramesh Chowdary",
+          "specialization": "Pediatrician",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-947774229"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Flu (Influenza)",
+      "medicines": [
+        "Oseltamivir (if early)",
+        "Paracetamol"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rakesh Sharma",
+          "specialization": "Physiotherapist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-941666754"
+        },
+        {
+          "name": "Dr. Meena Reddy",
+          "specialization": "Endocrinologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-949770838"
+        },
+        {
+          "name": "Dr. Mahesh Varma",
+          "specialization": "Cardiologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-945004485"
+        }
+      ]
+    },
+    {
+      "tag": "Headache",
+      "medicines": [
+        "Paracetamol",
+        "Aspirin (adult)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Karthik Kumar",
+          "specialization": "Gynecologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-946304573"
+        },
+        {
+          "name": "Dr. Shwetha Reddy",
+          "specialization": "General Physician",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-942677407"
+        },
+        {
+          "name": "Dr. Ramesh Gowda",
+          "specialization": "Cardiologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-945449324"
+        },
+        {
+          "name": "Dr. Rajesh Patel",
+          "specialization": "Pediatrician",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-947199635"
+        },
+        {
+          "name": "Dr. Sowmya Kumar",
+          "specialization": "Gastroenterologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-946075395"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Headache",
+      "medicines": [
+        "Paracetamol",
+        "Aspirin (adult)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Naveen Gowda",
+          "specialization": "Gynecologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-943253031"
+        },
+        {
+          "name": "Dr. Kiran Reddy",
+          "specialization": "Dermatologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-943607983"
+        },
+        {
+          "name": "Dr. Kiran Varma",
+          "specialization": "Emergency Medicine",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-946752576"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Headache",
+      "medicines": [
+        "Paracetamol",
+        "Aspirin (adult)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Naveen Varma",
+          "specialization": "Urologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-945213115"
+        },
+        {
+          "name": "Dr. Neha Reddy",
+          "specialization": "Endocrinologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-941739653"
+        },
+        {
+          "name": "Dr. Srinivas Patel",
+          "specialization": "ENT Specialist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-943710895"
+        },
+        {
+          "name": "Dr. Harish Naik",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-941162230"
+        }
+      ]
+    },
+    {
+      "tag": "Migraine",
+      "medicines": [
+        "Sumatriptan 50mg",
+        "Ibuprofen 400mg"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Ramesh Kumar",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-947194416"
+        },
+        {
+          "name": "Dr. Rakesh Gowda",
+          "specialization": "ENT Specialist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-943138181"
+        },
+        {
+          "name": "Dr. Neha Varma",
+          "specialization": "Ophthalmologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-947003042"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Migraine",
+      "medicines": [
+        "Sumatriptan 50mg",
+        "Ibuprofen 400mg"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Naveen Sharma",
+          "specialization": "Dermatologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-947817881"
+        },
+        {
+          "name": "Dr. Meena Kumar",
+          "specialization": "Neurologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-943970445"
+        },
+        {
+          "name": "Dr. Rashmi Rao",
+          "specialization": "Pulmonologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-947907400"
+        },
+        {
+          "name": "Dr. Naveen Sharma",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-942813543"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Migraine",
+      "medicines": [
+        "Sumatriptan 50mg",
+        "Ibuprofen 400mg"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Neha Naik",
+          "specialization": "Neurologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-948722606"
+        },
+        {
+          "name": "Dr. Divya Varma",
+          "specialization": "Neurologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-941397023"
+        },
+        {
+          "name": "Dr. Naveen Sharma",
+          "specialization": "Psychiatrist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-945674183"
+        },
+        {
+          "name": "Dr. Ramesh Varma",
+          "specialization": "Ophthalmologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-947705490"
+        },
+        {
+          "name": "Dr. Naveen Gowda",
+          "specialization": "Nephrologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-942935113"
+        },
+        {
+          "name": "Dr. Kiran Kumar",
+          "specialization": "Physiotherapist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-941641849"
+        }
+      ]
+    },
+    {
+      "tag": "Stomach Ache",
+      "medicines": [
+        "Antacids (Ranitidine/Omeprazole)",
+        "Ors/hydration"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Meena Singh",
+          "specialization": "Ophthalmologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-948321474"
+        },
+        {
+          "name": "Dr. Meena Gowda",
+          "specialization": "Dermatologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-944188992"
+        },
+        {
+          "name": "Dr. Kiran Rao",
+          "specialization": "Endocrinologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-949722815"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Stomach Ache",
+      "medicines": [
+        "Antacids (Ranitidine/Omeprazole)",
+        "Ors/hydration"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Divya Singh",
+          "specialization": "Pediatrician",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-946266630"
+        },
+        {
+          "name": "Dr. Naveen Reddy",
+          "specialization": "Gynecologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-946188935"
+        },
+        {
+          "name": "Dr. Naveen Singh",
+          "specialization": "Nephrologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-945960271"
+        },
+        {
+          "name": "Dr. Pooja Kumar",
+          "specialization": "Cardiologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-947361002"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Stomach Ache",
+      "medicines": [
+        "Antacids (Ranitidine/Omeprazole)",
+        "Ors/hydration"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Meena Chowdary",
+          "specialization": "Gynecologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-941006810"
+        },
+        {
+          "name": "Dr. Sowmya Varma",
+          "specialization": "Cardiologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-946406444"
+        },
+        {
+          "name": "Dr. Suresh Naik",
+          "specialization": "Gastroenterologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-949576076"
+        },
+        {
+          "name": "Dr. Latha Kumar",
+          "specialization": "Pediatrician",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-949647849"
+        }
+      ]
+    },
+    {
+      "tag": "Diarrhea",
+      "medicines": [
+        "Oral Rehydration Salts",
+        "Loperamide (adult)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Ramesh Sharma",
+          "specialization": "Gynecologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-944340845"
+        },
+        {
+          "name": "Dr. Rajesh Rao",
+          "specialization": "Internal Medicine",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-948971465"
+        },
+        {
+          "name": "Dr. Meena Reddy",
+          "specialization": "Gastroenterologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-944262081"
+        },
+        {
+          "name": "Dr. Swapna Singh",
+          "specialization": "Dental Surgeon",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-945093379"
+        },
+        {
+          "name": "Dr. Rajesh Rao",
+          "specialization": "Dermatologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-944671545"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Diarrhea",
+      "medicines": [
+        "Oral Rehydration Salts",
+        "Loperamide (adult)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Swapna Gowda",
+          "specialization": "Gastroenterologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-945180853"
+        },
+        {
+          "name": "Dr. Anjali Naik",
+          "specialization": "ENT Specialist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-949910914"
+        },
+        {
+          "name": "Dr. Pooja Chowdary",
+          "specialization": "Nephrologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-949468772"
+        },
+        {
+          "name": "Dr. Rashmi Gowda",
+          "specialization": "Gastroenterologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-948963715"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Diarrhea",
+      "medicines": [
+        "Oral Rehydration Salts",
+        "Loperamide (adult)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Kiran Sharma",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-949130188"
+        },
+        {
+          "name": "Dr. Arun Sharma",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-942299954"
+        },
+        {
+          "name": "Dr. Swapna Varma",
+          "specialization": "Neurologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-946634586"
+        },
+        {
+          "name": "Dr. Mahesh Gowda",
+          "specialization": "Pediatrician",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-943530518"
+        },
+        {
+          "name": "Dr. Sunitha Singh",
+          "specialization": "ENT Specialist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-942077581"
+        },
+        {
+          "name": "Dr. Rashmi Singh",
+          "specialization": "Nephrologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-948816912"
+        }
+      ]
+    },
+    {
+      "tag": "Food Poisoning",
+      "medicines": [
+        "ORS",
+        "Antiemetic (Ondansetron)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Neha Sharma",
+          "specialization": "Endocrinologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-941327691"
+        },
+        {
+          "name": "Dr. Shwetha Chowdary",
+          "specialization": "Psychiatrist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-941098919"
+        },
+        {
+          "name": "Dr. Divya Varma",
+          "specialization": "Psychiatrist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-944700025"
+        },
+        {
+          "name": "Dr. Latha Sharma",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-949147720"
+        },
+        {
+          "name": "Dr. Srinivas Singh",
+          "specialization": "Nephrologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-943768991"
+        },
+        {
+          "name": "Dr. Suresh Kumar",
+          "specialization": "Emergency Medicine",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-941452421"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Food Poisoning",
+      "medicines": [
+        "ORS",
+        "Antiemetic (Ondansetron)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rakesh Chowdary",
+          "specialization": "General Physician",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-948190929"
+        },
+        {
+          "name": "Dr. Rajesh Naik",
+          "specialization": "Pulmonologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-945364698"
+        },
+        {
+          "name": "Dr. Karthik Patel",
+          "specialization": "Cardiologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-946483562"
+        },
+        {
+          "name": "Dr. Mahesh Singh",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-945232413"
+        },
+        {
+          "name": "Dr. Ramesh Naik",
+          "specialization": "General Physician",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-941873851"
+        },
+        {
+          "name": "Dr. Divya Sharma",
+          "specialization": "Pediatrician",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-941520596"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Food Poisoning",
+      "medicines": [
+        "ORS",
+        "Antiemetic (Ondansetron)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Venkatesh Rao",
+          "specialization": "Emergency Medicine",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-945002120"
+        },
+        {
+          "name": "Dr. Rajesh Naik",
+          "specialization": "Dermatologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-944656838"
+        },
+        {
+          "name": "Dr. Suresh Varma",
+          "specialization": "Ophthalmologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-942921542"
+        },
+        {
+          "name": "Dr. Shwetha Kumar",
+          "specialization": "Gynecologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-941430812"
+        }
+      ]
+    },
+    {
+      "tag": "Gastritis",
+      "medicines": [
+        "Proton pump inhibitor (Omeprazole)",
+        "Antacid"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rakesh Singh",
+          "specialization": "Psychiatrist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-942275009"
+        },
+        {
+          "name": "Dr. Rakesh Sharma",
+          "specialization": "Dermatologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-943030966"
+        },
+        {
+          "name": "Dr. Rakesh Rao",
+          "specialization": "Ophthalmologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-948186990"
+        },
+        {
+          "name": "Dr. Naveen Patel",
+          "specialization": "Pediatrician",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-946724909"
+        },
+        {
+          "name": "Dr. Srinivas Singh",
+          "specialization": "Dental Surgeon",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-948273315"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Gastritis",
+      "medicines": [
+        "Proton pump inhibitor (Omeprazole)",
+        "Antacid"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Arun Naik",
+          "specialization": "ENT Specialist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-943955087"
+        },
+        {
+          "name": "Dr. Harish Gowda",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-949111742"
+        },
+        {
+          "name": "Dr. Suresh Singh",
+          "specialization": "Physiotherapist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-946407373"
+        },
+        {
+          "name": "Dr. Sunitha Reddy",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-945091349"
+        },
+        {
+          "name": "Dr. Shwetha Naik",
+          "specialization": "Physiotherapist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-947358385"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Gastritis",
+      "medicines": [
+        "Proton pump inhibitor (Omeprazole)",
+        "Antacid"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Srinivas Naik",
+          "specialization": "Nephrologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-949179730"
+        },
+        {
+          "name": "Dr. Venkatesh Patel",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-945691890"
+        },
+        {
+          "name": "Dr. Meena Varma",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-949667566"
+        },
+        {
+          "name": "Dr. Venkatesh Reddy",
+          "specialization": "Neurologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-949196976"
+        },
+        {
+          "name": "Dr. Pooja Sharma",
+          "specialization": "Dental Surgeon",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-948519121"
+        }
+      ]
+    },
+    {
+      "tag": "Acid Reflux",
+      "medicines": [
+        "Omeprazole",
+        "Ranitidine"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Ramesh Varma",
+          "specialization": "Neurologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-945081983"
+        },
+        {
+          "name": "Dr. Sowmya Chowdary",
+          "specialization": "Ophthalmologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-949907391"
+        },
+        {
+          "name": "Dr. Divya Singh",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-946902401"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Acid Reflux",
+      "medicines": [
+        "Omeprazole",
+        "Ranitidine"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Kiran Varma",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-943024269"
+        },
+        {
+          "name": "Dr. Harish Sharma",
+          "specialization": "Nephrologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-949990305"
+        },
+        {
+          "name": "Dr. Shwetha Kumar",
+          "specialization": "Cardiologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-949123504"
+        },
+        {
+          "name": "Dr. Kiran Chowdary",
+          "specialization": "Urologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-945747930"
+        },
+        {
+          "name": "Dr. Anjali Sharma",
+          "specialization": "Gynecologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-947054579"
+        },
+        {
+          "name": "Dr. Priya Varma",
+          "specialization": "General Physician",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-943123709"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Acid Reflux",
+      "medicines": [
+        "Omeprazole",
+        "Ranitidine"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Neha Rao",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-943118618"
+        },
+        {
+          "name": "Dr. Arun Naik",
+          "specialization": "Dermatologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-945770422"
+        },
+        {
+          "name": "Dr. Latha Naik",
+          "specialization": "Gastroenterologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-944093109"
+        },
+        {
+          "name": "Dr. Neha Varma",
+          "specialization": "Dental Surgeon",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-942096280"
+        },
+        {
+          "name": "Dr. Karthik Naik",
+          "specialization": "Pediatrician",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-941899411"
+        }
+      ]
+    },
+    {
+      "tag": "Urinary Tract Infection",
+      "medicines": [
+        "Nitrofurantoin 100mg",
+        "Ciprofloxacin (if needed)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rajesh Chowdary",
+          "specialization": "Gynecologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-945163953"
+        },
+        {
+          "name": "Dr. Anjali Gowda",
+          "specialization": "Endocrinologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-944786401"
+        },
+        {
+          "name": "Dr. Shwetha Gowda",
+          "specialization": "Psychiatrist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-948427625"
+        },
+        {
+          "name": "Dr. Sowmya Chowdary",
+          "specialization": "Endocrinologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-942010496"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Urinary Tract Infection",
+      "medicines": [
+        "Nitrofurantoin 100mg",
+        "Ciprofloxacin (if needed)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Shwetha Sharma",
+          "specialization": "Cardiologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-942362099"
+        },
+        {
+          "name": "Dr. Priya Sharma",
+          "specialization": "Pulmonologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-942259379"
+        },
+        {
+          "name": "Dr. Priya Rao",
+          "specialization": "Endocrinologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-948883823"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Urinary Tract Infection",
+      "medicines": [
+        "Nitrofurantoin 100mg",
+        "Ciprofloxacin (if needed)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Neha Sharma",
+          "specialization": "Gynecologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-948617381"
+        },
+        {
+          "name": "Dr. Ramesh Sharma",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-944318855"
+        },
+        {
+          "name": "Dr. Rashmi Reddy",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-943499627"
+        },
+        {
+          "name": "Dr. Kiran Kumar",
+          "specialization": "Pediatrician",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-943783722"
+        },
+        {
+          "name": "Dr. Sowmya Chowdary",
+          "specialization": "Physiotherapist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-948367772"
+        }
+      ]
+    },
+    {
+      "tag": "Skin Infection",
+      "medicines": [
+        "Topical antiseptic",
+        "Oral antibiotic (Amoxicillin)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Suresh Varma",
+          "specialization": "Psychiatrist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-949396529"
+        },
+        {
+          "name": "Dr. Pooja Naik",
+          "specialization": "Gastroenterologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-941668752"
+        },
+        {
+          "name": "Dr. Rashmi Patel",
+          "specialization": "Emergency Medicine",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-941433940"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Skin Infection",
+      "medicines": [
+        "Topical antiseptic",
+        "Oral antibiotic (Amoxicillin)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Sunitha Chowdary",
+          "specialization": "Physiotherapist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-945521644"
+        },
+        {
+          "name": "Dr. Rakesh Rao",
+          "specialization": "Pulmonologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-949706768"
+        },
+        {
+          "name": "Dr. Arun Naik",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-948312936"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Skin Infection",
+      "medicines": [
+        "Topical antiseptic",
+        "Oral antibiotic (Amoxicillin)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Ramesh Naik",
+          "specialization": "Ophthalmologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-946591986"
+        },
+        {
+          "name": "Dr. Mahesh Reddy",
+          "specialization": "Pulmonologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-947906258"
+        },
+        {
+          "name": "Dr. Swapna Naik",
+          "specialization": "Gynecologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-941615675"
+        },
+        {
+          "name": "Dr. Suresh Reddy",
+          "specialization": "Nephrologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-946423634"
+        },
+        {
+          "name": "Dr. Anjali Singh",
+          "specialization": "Urologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-948750676"
+        },
+        {
+          "name": "Dr. Rashmi Rao",
+          "specialization": "Cardiologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-947069650"
+        }
+      ]
+    },
+    {
+      "tag": "Eczema",
+      "medicines": [
+        "Topical steroid cream",
+        "Moisturizer"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Arun Naik",
+          "specialization": "Internal Medicine",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-945480460"
+        },
+        {
+          "name": "Dr. Pooja Kumar",
+          "specialization": "Gynecologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-949132114"
+        },
+        {
+          "name": "Dr. Anjali Rao",
+          "specialization": "Emergency Medicine",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-943657144"
+        },
+        {
+          "name": "Dr. Sowmya Gowda",
+          "specialization": "General Physician",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-947844947"
+        },
+        {
+          "name": "Dr. Ramesh Sharma",
+          "specialization": "Dermatologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-942970754"
+        },
+        {
+          "name": "Dr. Arun Kumar",
+          "specialization": "Dental Surgeon",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-949537455"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Eczema",
+      "medicines": [
+        "Topical steroid cream",
+        "Moisturizer"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rashmi Naik",
+          "specialization": "Dental Surgeon",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-948663605"
+        },
+        {
+          "name": "Dr. Pooja Kumar",
+          "specialization": "Psychiatrist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-949526867"
+        },
+        {
+          "name": "Dr. Harish Kumar",
+          "specialization": "Pediatrician",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-947961578"
+        },
+        {
+          "name": "Dr. Mahesh Gowda",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-945745250"
+        },
+        {
+          "name": "Dr. Harish Varma",
+          "specialization": "Physiotherapist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-949214801"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Eczema",
+      "medicines": [
+        "Topical steroid cream",
+        "Moisturizer"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Suresh Gowda",
+          "specialization": "Dental Surgeon",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-946577416"
+        },
+        {
+          "name": "Dr. Pooja Gowda",
+          "specialization": "Psychiatrist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-946398528"
+        },
+        {
+          "name": "Dr. Venkatesh Sharma",
+          "specialization": "Physiotherapist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-944918527"
+        },
+        {
+          "name": "Dr. Shwetha Singh",
+          "specialization": "Internal Medicine",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-948935224"
+        }
+      ]
+    },
+    {
+      "tag": "Psoriasis",
+      "medicines": [
+        "Topical steroid",
+        "Coal tar preparations"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Karthik Kumar",
+          "specialization": "Dental Surgeon",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-943118060"
+        },
+        {
+          "name": "Dr. Vijay Chowdary",
+          "specialization": "Nephrologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-948387112"
+        },
+        {
+          "name": "Dr. Anjali Gowda",
+          "specialization": "Gastroenterologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-943418526"
+        },
+        {
+          "name": "Dr. Rashmi Kumar",
+          "specialization": "Pediatrician",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-945446344"
+        },
+        {
+          "name": "Dr. Mahesh Chowdary",
+          "specialization": "Psychiatrist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-946512415"
+        },
+        {
+          "name": "Dr. Naveen Gowda",
+          "specialization": "Psychiatrist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-949186400"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Psoriasis",
+      "medicines": [
+        "Topical steroid",
+        "Coal tar preparations"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Meena Reddy",
+          "specialization": "Neurologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-944816586"
+        },
+        {
+          "name": "Dr. Harish Reddy",
+          "specialization": "Endocrinologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-942686231"
+        },
+        {
+          "name": "Dr. Suresh Kumar",
+          "specialization": "Gynecologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-941771600"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Psoriasis",
+      "medicines": [
+        "Topical steroid",
+        "Coal tar preparations"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Neha Varma",
+          "specialization": "Ophthalmologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-948225725"
+        },
+        {
+          "name": "Dr. Rajesh Sharma",
+          "specialization": "Urologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-944020853"
+        },
+        {
+          "name": "Dr. Priya Kumar",
+          "specialization": "Pediatrician",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-947418028"
+        },
+        {
+          "name": "Dr. Meena Sharma",
+          "specialization": "Dental Surgeon",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-943401116"
+        },
+        {
+          "name": "Dr. Sunitha Naik",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-945283671"
+        }
+      ]
+    },
+    {
+      "tag": "Acne",
+      "medicines": [
+        "Topical benzoyl peroxide",
+        "Oral doxycycline (if moderate)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Suresh Varma",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-942239197"
+        },
+        {
+          "name": "Dr. Suresh Patel",
+          "specialization": "Physiotherapist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-948118722"
+        },
+        {
+          "name": "Dr. Swapna Varma",
+          "specialization": "Gastroenterologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-944342306"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Acne",
+      "medicines": [
+        "Topical benzoyl peroxide",
+        "Oral doxycycline (if moderate)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Latha Reddy",
+          "specialization": "Neurologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-947022335"
+        },
+        {
+          "name": "Dr. Rakesh Varma",
+          "specialization": "Gynecologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-947640518"
+        },
+        {
+          "name": "Dr. Kiran Rao",
+          "specialization": "Physiotherapist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-949333700"
+        },
+        {
+          "name": "Dr. Sowmya Sharma",
+          "specialization": "Emergency Medicine",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-944674286"
+        },
+        {
+          "name": "Dr. Arun Sharma",
+          "specialization": "Emergency Medicine",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-943294774"
+        },
+        {
+          "name": "Dr. Arun Reddy",
+          "specialization": "Internal Medicine",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-948395785"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Acne",
+      "medicines": [
+        "Topical benzoyl peroxide",
+        "Oral doxycycline (if moderate)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rakesh Patel",
+          "specialization": "ENT Specialist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-945951131"
+        },
+        {
+          "name": "Dr. Mahesh Singh",
+          "specialization": "Pulmonologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-943217273"
+        },
+        {
+          "name": "Dr. Pooja Patel",
+          "specialization": "Urologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-945572250"
+        }
+      ]
+    },
+    {
+      "tag": "Allergic Rhinitis",
+      "medicines": [
+        "Cetirizine 10mg",
+        "Fluticasone nasal spray"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Kiran Naik",
+          "specialization": "Gynecologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-942932227"
+        },
+        {
+          "name": "Dr. Suresh Reddy",
+          "specialization": "ENT Specialist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-947667458"
+        },
+        {
+          "name": "Dr. Pooja Patel",
+          "specialization": "Pediatrician",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-941233516"
+        },
+        {
+          "name": "Dr. Kiran Gowda",
+          "specialization": "Dermatologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-947183841"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Allergic Rhinitis",
+      "medicines": [
+        "Cetirizine 10mg",
+        "Fluticasone nasal spray"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rakesh Singh",
+          "specialization": "Ophthalmologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-944922880"
+        },
+        {
+          "name": "Dr. Latha Rao",
+          "specialization": "Emergency Medicine",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-946503032"
+        },
+        {
+          "name": "Dr. Meena Sharma",
+          "specialization": "Pediatrician",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-946069909"
+        },
+        {
+          "name": "Dr. Arun Singh",
+          "specialization": "Dermatologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-941760793"
+        },
+        {
+          "name": "Dr. Neha Varma",
+          "specialization": "Dental Surgeon",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-942630611"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Allergic Rhinitis",
+      "medicines": [
+        "Cetirizine 10mg",
+        "Fluticasone nasal spray"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Pooja Kumar",
+          "specialization": "Psychiatrist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-947224540"
+        },
+        {
+          "name": "Dr. Naveen Gowda",
+          "specialization": "Endocrinologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-943592464"
+        },
+        {
+          "name": "Dr. Rashmi Reddy",
+          "specialization": "Dental Surgeon",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-947847048"
+        },
+        {
+          "name": "Dr. Kiran Rao",
+          "specialization": "Ophthalmologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-948438733"
+        }
+      ]
+    },
+    {
+      "tag": "Sinusitis",
+      "medicines": [
+        "Amoxicillin-clavulanate",
+        "Nasal decongestant (limited use)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Sunitha Patel",
+          "specialization": "Dermatologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-947017548"
+        },
+        {
+          "name": "Dr. Neha Singh",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-943049499"
+        },
+        {
+          "name": "Dr. Suresh Reddy",
+          "specialization": "Cardiologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-941358318"
+        },
+        {
+          "name": "Dr. Neha Patel",
+          "specialization": "Neurologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-944442778"
+        },
+        {
+          "name": "Dr. Ramesh Gowda",
+          "specialization": "Cardiologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-944623062"
+        },
+        {
+          "name": "Dr. Sunitha Patel",
+          "specialization": "ENT Specialist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-941047572"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Sinusitis",
+      "medicines": [
+        "Amoxicillin-clavulanate",
+        "Nasal decongestant (limited use)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rajesh Kumar",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-943927575"
+        },
+        {
+          "name": "Dr. Anjali Rao",
+          "specialization": "ENT Specialist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-947010308"
+        },
+        {
+          "name": "Dr. Sunitha Chowdary",
+          "specialization": "Nephrologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-943923366"
+        },
+        {
+          "name": "Dr. Kiran Rao",
+          "specialization": "ENT Specialist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-949826250"
+        },
+        {
+          "name": "Dr. Anjali Reddy",
+          "specialization": "Dental Surgeon",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-947074006"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Sinusitis",
+      "medicines": [
+        "Amoxicillin-clavulanate",
+        "Nasal decongestant (limited use)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Suresh Gowda",
+          "specialization": "Neurologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-941727544"
+        },
+        {
+          "name": "Dr. Harish Gowda",
+          "specialization": "Gynecologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-941522621"
+        },
+        {
+          "name": "Dr. Neha Naik",
+          "specialization": "Psychiatrist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-942811298"
+        }
+      ]
+    },
+    {
+      "tag": "Bronchitis",
+      "medicines": [
+        "Salbutamol inhaler (if wheeze)",
+        "Antitussive if dry cough"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Swapna Naik",
+          "specialization": "Pediatrician",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-946404139"
+        },
+        {
+          "name": "Dr. Meena Kumar",
+          "specialization": "Pediatrician",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-945614002"
+        },
+        {
+          "name": "Dr. Meena Chowdary",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-947390515"
+        },
+        {
+          "name": "Dr. Meena Gowda",
+          "specialization": "Gynecologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-949481739"
+        },
+        {
+          "name": "Dr. Meena Singh",
+          "specialization": "Dermatologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-944607488"
+        },
+        {
+          "name": "Dr. Rashmi Naik",
+          "specialization": "Neurologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-946686328"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Bronchitis",
+      "medicines": [
+        "Salbutamol inhaler (if wheeze)",
+        "Antitussive if dry cough"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Karthik Singh",
+          "specialization": "Dermatologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-948159911"
+        },
+        {
+          "name": "Dr. Mahesh Varma",
+          "specialization": "Ophthalmologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-948956894"
+        },
+        {
+          "name": "Dr. Ramesh Reddy",
+          "specialization": "Pediatrician",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-948245685"
+        },
+        {
+          "name": "Dr. Anjali Patel",
+          "specialization": "ENT Specialist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-942006313"
+        },
+        {
+          "name": "Dr. Rakesh Gowda",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-943050700"
+        },
+        {
+          "name": "Dr. Rashmi Patel",
+          "specialization": "Endocrinologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-945825620"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Bronchitis",
+      "medicines": [
+        "Salbutamol inhaler (if wheeze)",
+        "Antitussive if dry cough"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Divya Reddy",
+          "specialization": "Physiotherapist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-944569164"
+        },
+        {
+          "name": "Dr. Rajesh Naik",
+          "specialization": "Neurologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-946873938"
+        },
+        {
+          "name": "Dr. Pooja Patel",
+          "specialization": "Dermatologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-944794319"
+        },
+        {
+          "name": "Dr. Rashmi Gowda",
+          "specialization": "Emergency Medicine",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-941440466"
+        },
+        {
+          "name": "Dr. Meena Varma",
+          "specialization": "General Physician",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-945584716"
+        }
+      ]
+    },
+    {
+      "tag": "Pneumonia",
+      "medicines": [
+        "Amoxicillin-clavulanate",
+        "Azithromycin (in adults)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Mahesh Patel",
+          "specialization": "General Physician",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-943403361"
+        },
+        {
+          "name": "Dr. Rakesh Singh",
+          "specialization": "Pediatrician",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-941514340"
+        },
+        {
+          "name": "Dr. Ramesh Gowda",
+          "specialization": "Cardiologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-948043620"
+        },
+        {
+          "name": "Dr. Suresh Patel",
+          "specialization": "Pulmonologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-946228407"
+        },
+        {
+          "name": "Dr. Harish Patel",
+          "specialization": "Physiotherapist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-942425342"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Pneumonia",
+      "medicines": [
+        "Amoxicillin-clavulanate",
+        "Azithromycin (in adults)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rajesh Kumar",
+          "specialization": "Emergency Medicine",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-942368710"
+        },
+        {
+          "name": "Dr. Kiran Naik",
+          "specialization": "Endocrinologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-948416270"
+        },
+        {
+          "name": "Dr. Rashmi Varma",
+          "specialization": "Cardiologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-942909540"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Pneumonia",
+      "medicines": [
+        "Amoxicillin-clavulanate",
+        "Azithromycin (in adults)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rashmi Reddy",
+          "specialization": "Gynecologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-949164342"
+        },
+        {
+          "name": "Dr. Vijay Varma",
+          "specialization": "Internal Medicine",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-947631419"
+        },
+        {
+          "name": "Dr. Meena Rao",
+          "specialization": "General Physician",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-946056977"
+        },
+        {
+          "name": "Dr. Venkatesh Kumar",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-946504979"
+        },
+        {
+          "name": "Dr. Anjali Rao",
+          "specialization": "Dental Surgeon",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-943947669"
+        }
+      ]
+    },
+    {
+      "tag": "Asthma",
+      "medicines": [
+        "Salbutamol inhaler (SABA)",
+        "Inhaled corticosteroid (Budesonide)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Karthik Gowda",
+          "specialization": "Neurologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-946941939"
+        },
+        {
+          "name": "Dr. Ramesh Singh",
+          "specialization": "Internal Medicine",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-941314430"
+        },
+        {
+          "name": "Dr. Suresh Reddy",
+          "specialization": "Nephrologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-948202195"
+        },
+        {
+          "name": "Dr. Rakesh Singh",
+          "specialization": "Endocrinologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-942932288"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Asthma",
+      "medicines": [
+        "Salbutamol inhaler (SABA)",
+        "Inhaled corticosteroid (Budesonide)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Srinivas Patel",
+          "specialization": "Pulmonologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-948719145"
+        },
+        {
+          "name": "Dr. Swapna Patel",
+          "specialization": "Pediatrician",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-942776088"
+        },
+        {
+          "name": "Dr. Sunitha Singh",
+          "specialization": "Physiotherapist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-949790632"
+        },
+        {
+          "name": "Dr. Ramesh Singh",
+          "specialization": "Gynecologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-944717362"
+        },
+        {
+          "name": "Dr. Mahesh Kumar",
+          "specialization": "Pediatrician",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-942913049"
+        },
+        {
+          "name": "Dr. Vijay Gowda",
+          "specialization": "Cardiologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-946890476"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Asthma",
+      "medicines": [
+        "Salbutamol inhaler (SABA)",
+        "Inhaled corticosteroid (Budesonide)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Sunitha Reddy",
+          "specialization": "ENT Specialist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-944309671"
+        },
+        {
+          "name": "Dr. Priya Chowdary",
+          "specialization": "ENT Specialist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-943972018"
+        },
+        {
+          "name": "Dr. Shwetha Naik",
+          "specialization": "Gastroenterologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-948531380"
+        },
+        {
+          "name": "Dr. Naveen Chowdary",
+          "specialization": "Emergency Medicine",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-946303930"
+        }
+      ]
+    },
+    {
+      "tag": "COPD",
+      "medicines": [
+        "Tiotropium (if chronic)",
+        "Salbutamol inhaler"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Suresh Reddy",
+          "specialization": "Dental Surgeon",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-946080483"
+        },
+        {
+          "name": "Dr. Kiran Chowdary",
+          "specialization": "Internal Medicine",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-949511700"
+        },
+        {
+          "name": "Dr. Ramesh Varma",
+          "specialization": "Gastroenterologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-941630944"
+        },
+        {
+          "name": "Dr. Neha Patel",
+          "specialization": "Gynecologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-942514923"
+        }
+      ]
+    },
+    {
+      "tag": "Acute COPD",
+      "medicines": [
+        "Tiotropium (if chronic)",
+        "Salbutamol inhaler"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Suresh Chowdary",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-948545279"
+        },
+        {
+          "name": "Dr. Rakesh Sharma",
+          "specialization": "Nephrologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-948979730"
+        },
+        {
+          "name": "Dr. Vijay Kumar",
+          "specialization": "Internal Medicine",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-942736473"
+        },
+        {
+          "name": "Dr. Mahesh Reddy",
+          "specialization": "Urologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-941656695"
+        },
+        {
+          "name": "Dr. Sunitha Naik",
+          "specialization": "Gastroenterologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-949770256"
+        },
+        {
+          "name": "Dr. Meena Kumar",
+          "specialization": "Ophthalmologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-945746166"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic COPD",
+      "medicines": [
+        "Tiotropium (if chronic)",
+        "Salbutamol inhaler"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rashmi Patel",
+          "specialization": "Emergency Medicine",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-946614484"
+        },
+        {
+          "name": "Dr. Ramesh Patel",
+          "specialization": "Dermatologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-947485471"
+        },
+        {
+          "name": "Dr. Sowmya Varma",
+          "specialization": "Emergency Medicine",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-946592886"
+        },
+        {
+          "name": "Dr. Ramesh Chowdary",
+          "specialization": "ENT Specialist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-946204824"
+        },
+        {
+          "name": "Dr. Arun Singh",
+          "specialization": "ENT Specialist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-942421349"
+        },
+        {
+          "name": "Dr. Sowmya Gowda",
+          "specialization": "Psychiatrist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-943144023"
+        }
+      ]
+    },
+    {
+      "tag": "Hypertension",
+      "medicines": [
+        "Amlodipine 5mg",
+        "Telmisartan 40mg"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Arun Singh",
+          "specialization": "Urologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-941305857"
+        },
+        {
+          "name": "Dr. Divya Varma",
+          "specialization": "Pulmonologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-946733317"
+        },
+        {
+          "name": "Dr. Shwetha Naik",
+          "specialization": "Cardiologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-943307963"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Hypertension",
+      "medicines": [
+        "Amlodipine 5mg",
+        "Telmisartan 40mg"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Ramesh Varma",
+          "specialization": "Dermatologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-949833734"
+        },
+        {
+          "name": "Dr. Neha Patel",
+          "specialization": "Emergency Medicine",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-947320310"
+        },
+        {
+          "name": "Dr. Rajesh Kumar",
+          "specialization": "Pulmonologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-943777286"
+        },
+        {
+          "name": "Dr. Harish Naik",
+          "specialization": "Internal Medicine",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-947111929"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Hypertension",
+      "medicines": [
+        "Amlodipine 5mg",
+        "Telmisartan 40mg"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Suresh Chowdary",
+          "specialization": "Gynecologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-944925917"
+        },
+        {
+          "name": "Dr. Pooja Sharma",
+          "specialization": "Gynecologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-944255051"
+        },
+        {
+          "name": "Dr. Divya Chowdary",
+          "specialization": "Gastroenterologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-945727345"
+        },
+        {
+          "name": "Dr. Shwetha Singh",
+          "specialization": "Urologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-948023963"
+        }
+      ]
+    },
+    {
+      "tag": "Type 2 Diabetes",
+      "medicines": [
+        "Metformin 500mg",
+        "Gliclazide (if needed)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Venkatesh Chowdary",
+          "specialization": "ENT Specialist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-941875431"
+        },
+        {
+          "name": "Dr. Arun Naik",
+          "specialization": "Ophthalmologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-942721170"
+        },
+        {
+          "name": "Dr. Swapna Gowda",
+          "specialization": "Dermatologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-942407191"
+        },
+        {
+          "name": "Dr. Shwetha Kumar",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-949612629"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Type 2 Diabetes",
+      "medicines": [
+        "Metformin 500mg",
+        "Gliclazide (if needed)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rashmi Reddy",
+          "specialization": "Neurologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-946865064"
+        },
+        {
+          "name": "Dr. Srinivas Singh",
+          "specialization": "Internal Medicine",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-949422281"
+        },
+        {
+          "name": "Dr. Divya Sharma",
+          "specialization": "Psychiatrist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-947289990"
+        },
+        {
+          "name": "Dr. Sunitha Rao",
+          "specialization": "Nephrologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-946625238"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Type 2 Diabetes",
+      "medicines": [
+        "Metformin 500mg",
+        "Gliclazide (if needed)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rajesh Rao",
+          "specialization": "Gynecologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-943328554"
+        },
+        {
+          "name": "Dr. Shwetha Naik",
+          "specialization": "Gastroenterologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-941088100"
+        },
+        {
+          "name": "Dr. Ramesh Rao",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-943508522"
+        },
+        {
+          "name": "Dr. Pooja Chowdary",
+          "specialization": "Urologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-942865405"
+        }
+      ]
+    },
+    {
+      "tag": "Hypothyroidism",
+      "medicines": [
+        "Levothyroxine 50mcg"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Sunitha Varma",
+          "specialization": "Dermatologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-945000351"
+        },
+        {
+          "name": "Dr. Rashmi Chowdary",
+          "specialization": "Gastroenterologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-942859886"
+        },
+        {
+          "name": "Dr. Latha Chowdary",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-949646569"
+        },
+        {
+          "name": "Dr. Rakesh Sharma",
+          "specialization": "ENT Specialist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-948201433"
+        },
+        {
+          "name": "Dr. Srinivas Chowdary",
+          "specialization": "Ophthalmologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-947988844"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Hypothyroidism",
+      "medicines": [
+        "Levothyroxine 50mcg"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Naveen Reddy",
+          "specialization": "Urologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-942135470"
+        },
+        {
+          "name": "Dr. Vijay Gowda",
+          "specialization": "Urologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-941341153"
+        },
+        {
+          "name": "Dr. Karthik Naik",
+          "specialization": "Internal Medicine",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-947262974"
+        },
+        {
+          "name": "Dr. Kiran Rao",
+          "specialization": "Ophthalmologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-946784825"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Hypothyroidism",
+      "medicines": [
+        "Levothyroxine 50mcg"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Harish Reddy",
+          "specialization": "Physiotherapist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-943238241"
+        },
+        {
+          "name": "Dr. Neha Patel",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-943937508"
+        },
+        {
+          "name": "Dr. Shwetha Naik",
+          "specialization": "Dental Surgeon",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-943262450"
+        },
+        {
+          "name": "Dr. Ramesh Naik",
+          "specialization": "Internal Medicine",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-944382135"
+        }
+      ]
+    },
+    {
+      "tag": "Hyperthyroidism",
+      "medicines": [
+        "Methimazole / Carbimazole (specialist advice)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Venkatesh Rao",
+          "specialization": "Nephrologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-949646701"
+        },
+        {
+          "name": "Dr. Karthik Gowda",
+          "specialization": "Dental Surgeon",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-941614394"
+        },
+        {
+          "name": "Dr. Shwetha Sharma",
+          "specialization": "Gynecologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-941802018"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Hyperthyroidism",
+      "medicines": [
+        "Methimazole / Carbimazole (specialist advice)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Kiran Reddy",
+          "specialization": "Ophthalmologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-947711251"
+        },
+        {
+          "name": "Dr. Harish Naik",
+          "specialization": "Psychiatrist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-944134272"
+        },
+        {
+          "name": "Dr. Latha Naik",
+          "specialization": "Ophthalmologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-945474830"
+        },
+        {
+          "name": "Dr. Ramesh Singh",
+          "specialization": "Pediatrician",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-944027557"
+        },
+        {
+          "name": "Dr. Pooja Varma",
+          "specialization": "Nephrologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-942343333"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Hyperthyroidism",
+      "medicines": [
+        "Methimazole / Carbimazole (specialist advice)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Naveen Varma",
+          "specialization": "Gynecologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-948149041"
+        },
+        {
+          "name": "Dr. Priya Naik",
+          "specialization": "Ophthalmologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-941710601"
+        },
+        {
+          "name": "Dr. Harish Patel",
+          "specialization": "Emergency Medicine",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-945606274"
+        },
+        {
+          "name": "Dr. Arun Rao",
+          "specialization": "Pediatrician",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-947095349"
+        },
+        {
+          "name": "Dr. Vijay Kumar",
+          "specialization": "General Physician",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-948351320"
+        }
+      ]
+    },
+    {
+      "tag": "Back Pain",
+      "medicines": [
+        "Paracetamol",
+        "NSAID (Ibuprofen)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rajesh Reddy",
+          "specialization": "Neurologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-947075878"
+        },
+        {
+          "name": "Dr. Karthik Chowdary",
+          "specialization": "Internal Medicine",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-943574265"
+        },
+        {
+          "name": "Dr. Naveen Naik",
+          "specialization": "Ophthalmologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-948448065"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Back Pain",
+      "medicines": [
+        "Paracetamol",
+        "NSAID (Ibuprofen)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rakesh Kumar",
+          "specialization": "Urologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-947677903"
+        },
+        {
+          "name": "Dr. Mahesh Varma",
+          "specialization": "Neurologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-941434753"
+        },
+        {
+          "name": "Dr. Harish Kumar",
+          "specialization": "Dental Surgeon",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-947492570"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Back Pain",
+      "medicines": [
+        "Paracetamol",
+        "NSAID (Ibuprofen)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Kiran Varma",
+          "specialization": "Gastroenterologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-945791184"
+        },
+        {
+          "name": "Dr. Swapna Naik",
+          "specialization": "Cardiologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-943277144"
+        },
+        {
+          "name": "Dr. Ramesh Naik",
+          "specialization": "Pulmonologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-942472884"
+        }
+      ]
+    },
+    {
+      "tag": "Sciatica",
+      "medicines": [
+        "NSAIDs",
+        "Gabapentin (if neuropathic)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Naveen Patel",
+          "specialization": "Pediatrician",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-945871470"
+        },
+        {
+          "name": "Dr. Sowmya Kumar",
+          "specialization": "Pulmonologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-949535505"
+        },
+        {
+          "name": "Dr. Sunitha Reddy",
+          "specialization": "Cardiologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-944971774"
+        },
+        {
+          "name": "Dr. Latha Rao",
+          "specialization": "Ophthalmologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-947189302"
+        },
+        {
+          "name": "Dr. Suresh Gowda",
+          "specialization": "ENT Specialist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-942446455"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Sciatica",
+      "medicines": [
+        "NSAIDs",
+        "Gabapentin (if neuropathic)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Sowmya Singh",
+          "specialization": "Dental Surgeon",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-947891998"
+        },
+        {
+          "name": "Dr. Shwetha Singh",
+          "specialization": "Physiotherapist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-943102634"
+        },
+        {
+          "name": "Dr. Mahesh Reddy",
+          "specialization": "Gastroenterologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-949679860"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Sciatica",
+      "medicines": [
+        "NSAIDs",
+        "Gabapentin (if neuropathic)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rajesh Gowda",
+          "specialization": "Physiotherapist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-943164813"
+        },
+        {
+          "name": "Dr. Rashmi Gowda",
+          "specialization": "Internal Medicine",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-949692311"
+        },
+        {
+          "name": "Dr. Rajesh Varma",
+          "specialization": "Pulmonologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-946413349"
+        },
+        {
+          "name": "Dr. Swapna Sharma",
+          "specialization": "Ophthalmologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-945765539"
+        },
+        {
+          "name": "Dr. Ramesh Varma",
+          "specialization": "Cardiologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-945604524"
+        }
+      ]
+    },
+    {
+      "tag": "Osteoarthritis",
+      "medicines": [
+        "Paracetamol",
+        "Topical NSAID gel"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Arun Varma",
+          "specialization": "Emergency Medicine",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-942567468"
+        },
+        {
+          "name": "Dr. Vijay Kumar",
+          "specialization": "Physiotherapist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-943586950"
+        },
+        {
+          "name": "Dr. Priya Chowdary",
+          "specialization": "Emergency Medicine",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-941691125"
+        },
+        {
+          "name": "Dr. Srinivas Reddy",
+          "specialization": "Internal Medicine",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-945440189"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Osteoarthritis",
+      "medicines": [
+        "Paracetamol",
+        "Topical NSAID gel"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Shwetha Chowdary",
+          "specialization": "Endocrinologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-941508113"
+        },
+        {
+          "name": "Dr. Latha Gowda",
+          "specialization": "Gynecologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-949102469"
+        },
+        {
+          "name": "Dr. Sunitha Singh",
+          "specialization": "Gynecologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-942224284"
+        },
+        {
+          "name": "Dr. Swapna Rao",
+          "specialization": "Pulmonologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-947972975"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Osteoarthritis",
+      "medicines": [
+        "Paracetamol",
+        "Topical NSAID gel"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Suresh Sharma",
+          "specialization": "Nephrologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-943410360"
+        },
+        {
+          "name": "Dr. Mahesh Patel",
+          "specialization": "Ophthalmologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-943193891"
+        },
+        {
+          "name": "Dr. Shwetha Patel",
+          "specialization": "Urologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-942781470"
+        },
+        {
+          "name": "Dr. Mahesh Sharma",
+          "specialization": "Gastroenterologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-945487430"
+        },
+        {
+          "name": "Dr. Suresh Sharma",
+          "specialization": "ENT Specialist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-941849015"
+        },
+        {
+          "name": "Dr. Sowmya Singh",
+          "specialization": "Emergency Medicine",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-945165284"
+        }
+      ]
+    },
+    {
+      "tag": "Rheumatoid Arthritis",
+      "medicines": [
+        "Methotrexate (specialist)",
+        "NSAIDs for pain"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Mahesh Chowdary",
+          "specialization": "Nephrologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-943673322"
+        },
+        {
+          "name": "Dr. Latha Gowda",
+          "specialization": "Gastroenterologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-946176450"
+        },
+        {
+          "name": "Dr. Latha Rao",
+          "specialization": "Pediatrician",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-949479950"
+        },
+        {
+          "name": "Dr. Suresh Sharma",
+          "specialization": "Cardiologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-946920597"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Rheumatoid Arthritis",
+      "medicines": [
+        "Methotrexate (specialist)",
+        "NSAIDs for pain"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Neha Varma",
+          "specialization": "Dental Surgeon",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-948895137"
+        },
+        {
+          "name": "Dr. Sowmya Gowda",
+          "specialization": "General Physician",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-948229768"
+        },
+        {
+          "name": "Dr. Rajesh Varma",
+          "specialization": "Ophthalmologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-947139410"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Rheumatoid Arthritis",
+      "medicines": [
+        "Methotrexate (specialist)",
+        "NSAIDs for pain"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Karthik Rao",
+          "specialization": "Physiotherapist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-944265774"
+        },
+        {
+          "name": "Dr. Divya Gowda",
+          "specialization": "Gynecologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-947481857"
+        },
+        {
+          "name": "Dr. Vijay Naik",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-942993318"
+        }
+      ]
+    },
+    {
+      "tag": "Gout",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Anjali Singh",
+          "specialization": "Ophthalmologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-947133857"
+        },
+        {
+          "name": "Dr. Shwetha Kumar",
+          "specialization": "Cardiologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-949541658"
+        },
+        {
+          "name": "Dr. Karthik Gowda",
+          "specialization": "Internal Medicine",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-941652868"
+        },
+        {
+          "name": "Dr. Rajesh Patel",
+          "specialization": "Dental Surgeon",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-948666995"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Gout",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Meena Gowda",
+          "specialization": "ENT Specialist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-946344047"
+        },
+        {
+          "name": "Dr. Priya Singh",
+          "specialization": "Emergency Medicine",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-946643410"
+        },
+        {
+          "name": "Dr. Vijay Gowda",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-946029651"
+        },
+        {
+          "name": "Dr. Latha Rao",
+          "specialization": "Ophthalmologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-942838859"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Gout",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rakesh Varma",
+          "specialization": "General Physician",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-948962302"
+        },
+        {
+          "name": "Dr. Kiran Chowdary",
+          "specialization": "Physiotherapist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-941861596"
+        },
+        {
+          "name": "Dr. Rakesh Naik",
+          "specialization": "Pulmonologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-947378535"
+        },
+        {
+          "name": "Dr. Rajesh Sharma",
+          "specialization": "Internal Medicine",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-942843740"
+        },
+        {
+          "name": "Dr. Venkatesh Rao",
+          "specialization": "Gastroenterologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-948025967"
+        },
+        {
+          "name": "Dr. Rajesh Singh",
+          "specialization": "Cardiologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-949419134"
+        }
+      ]
+    },
+    {
+      "tag": "Anemia",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Harish Rao",
+          "specialization": "ENT Specialist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-944478616"
+        },
+        {
+          "name": "Dr. Pooja Patel",
+          "specialization": "Dental Surgeon",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-947322070"
+        },
+        {
+          "name": "Dr. Mahesh Kumar",
+          "specialization": "Gastroenterologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-946743294"
+        },
+        {
+          "name": "Dr. Pooja Patel",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-949123194"
+        },
+        {
+          "name": "Dr. Venkatesh Sharma",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-946007984"
+        },
+        {
+          "name": "Dr. Sunitha Varma",
+          "specialization": "Gynecologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-949204110"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Anemia",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Latha Patel",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-945828304"
+        },
+        {
+          "name": "Dr. Anjali Chowdary",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-947619156"
+        },
+        {
+          "name": "Dr. Divya Kumar",
+          "specialization": "Gynecologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-945825636"
+        },
+        {
+          "name": "Dr. Swapna Reddy",
+          "specialization": "Ophthalmologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-945302415"
+        },
+        {
+          "name": "Dr. Harish Naik",
+          "specialization": "Cardiologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-945548852"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Anemia",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rajesh Reddy",
+          "specialization": "Emergency Medicine",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-945014486"
+        },
+        {
+          "name": "Dr. Sunitha Rao",
+          "specialization": "Urologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-944906349"
+        },
+        {
+          "name": "Dr. Neha Reddy",
+          "specialization": "Endocrinologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-948925622"
+        },
+        {
+          "name": "Dr. Anjali Kumar",
+          "specialization": "General Physician",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-943649811"
+        },
+        {
+          "name": "Dr. Rashmi Naik",
+          "specialization": "Dental Surgeon",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-945819172"
+        }
+      ]
+    },
+    {
+      "tag": "Vitamin D Deficiency",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Sowmya Rao",
+          "specialization": "Pediatrician",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-944896008"
+        },
+        {
+          "name": "Dr. Pooja Rao",
+          "specialization": "Pulmonologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-943949245"
+        },
+        {
+          "name": "Dr. Neha Singh",
+          "specialization": "Dental Surgeon",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-945856449"
+        },
+        {
+          "name": "Dr. Neha Rao",
+          "specialization": "Gynecologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-942800206"
+        },
+        {
+          "name": "Dr. Mahesh Varma",
+          "specialization": "Gastroenterologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-949796605"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Vitamin D Deficiency",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rajesh Gowda",
+          "specialization": "Gastroenterologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-944234838"
+        },
+        {
+          "name": "Dr. Anjali Patel",
+          "specialization": "Pulmonologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-945316188"
+        },
+        {
+          "name": "Dr. Swapna Kumar",
+          "specialization": "General Physician",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-945949685"
+        },
+        {
+          "name": "Dr. Rakesh Sharma",
+          "specialization": "Pulmonologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-947802999"
+        },
+        {
+          "name": "Dr. Rashmi Gowda",
+          "specialization": "Nephrologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-947724865"
+        },
+        {
+          "name": "Dr. Naveen Reddy",
+          "specialization": "Pulmonologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-949010350"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Vitamin D Deficiency",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Sunitha Rao",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-944951390"
+        },
+        {
+          "name": "Dr. Suresh Varma",
+          "specialization": "Nephrologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-941191859"
+        },
+        {
+          "name": "Dr. Kiran Patel",
+          "specialization": "Neurologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-942983483"
+        },
+        {
+          "name": "Dr. Suresh Varma",
+          "specialization": "Pulmonologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-949430894"
+        },
+        {
+          "name": "Dr. Swapna Varma",
+          "specialization": "Dermatologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-947166363"
+        }
+      ]
+    },
+    {
+      "tag": "Vitamin B12 Deficiency",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Sunitha Kumar",
+          "specialization": "Dental Surgeon",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-948633275"
+        },
+        {
+          "name": "Dr. Harish Chowdary",
+          "specialization": "Ophthalmologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-948899184"
+        },
+        {
+          "name": "Dr. Shwetha Gowda",
+          "specialization": "Cardiologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-942373555"
+        },
+        {
+          "name": "Dr. Vijay Naik",
+          "specialization": "Urologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-942310346"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Vitamin B12 Deficiency",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Neha Gowda",
+          "specialization": "Urologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-943514105"
+        },
+        {
+          "name": "Dr. Priya Patel",
+          "specialization": "Urologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-942950183"
+        },
+        {
+          "name": "Dr. Naveen Sharma",
+          "specialization": "Physiotherapist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-942525747"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Vitamin B12 Deficiency",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Neha Naik",
+          "specialization": "ENT Specialist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-947969667"
+        },
+        {
+          "name": "Dr. Suresh Chowdary",
+          "specialization": "Internal Medicine",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-948757420"
+        },
+        {
+          "name": "Dr. Naveen Varma",
+          "specialization": "General Physician",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-945269083"
+        },
+        {
+          "name": "Dr. Srinivas Sharma",
+          "specialization": "Physiotherapist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-941759836"
+        },
+        {
+          "name": "Dr. Rashmi Patel",
+          "specialization": "Pediatrician",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-942010921"
+        },
+        {
+          "name": "Dr. Ramesh Naik",
+          "specialization": "Internal Medicine",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-947859648"
+        }
+      ]
+    },
+    {
+      "tag": "Insomnia",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Shwetha Kumar",
+          "specialization": "Endocrinologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-947416943"
+        },
+        {
+          "name": "Dr. Suresh Singh",
+          "specialization": "Psychiatrist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-943231198"
+        },
+        {
+          "name": "Dr. Arun Patel",
+          "specialization": "Dermatologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-947594429"
+        },
+        {
+          "name": "Dr. Vijay Kumar",
+          "specialization": "Neurologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-941381435"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Insomnia",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Suresh Gowda",
+          "specialization": "Endocrinologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-947363203"
+        },
+        {
+          "name": "Dr. Sunitha Sharma",
+          "specialization": "Gastroenterologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-943602504"
+        },
+        {
+          "name": "Dr. Kiran Sharma",
+          "specialization": "Dermatologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-948033690"
+        },
+        {
+          "name": "Dr. Meena Rao",
+          "specialization": "Neurologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-942128954"
+        },
+        {
+          "name": "Dr. Anjali Chowdary",
+          "specialization": "Internal Medicine",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-941816653"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Insomnia",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Harish Rao",
+          "specialization": "Psychiatrist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-944931560"
+        },
+        {
+          "name": "Dr. Pooja Sharma",
+          "specialization": "Internal Medicine",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-949453969"
+        },
+        {
+          "name": "Dr. Sowmya Sharma",
+          "specialization": "Physiotherapist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-946379867"
+        },
+        {
+          "name": "Dr. Sunitha Varma",
+          "specialization": "ENT Specialist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-944708481"
+        }
+      ]
+    },
+    {
+      "tag": "Anxiety Disorder",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Sowmya Varma",
+          "specialization": "Internal Medicine",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-943938247"
+        },
+        {
+          "name": "Dr. Arun Singh",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-941786584"
+        },
+        {
+          "name": "Dr. Divya Singh",
+          "specialization": "Urologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-947984768"
+        },
+        {
+          "name": "Dr. Rashmi Kumar",
+          "specialization": "Gynecologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-944084977"
+        },
+        {
+          "name": "Dr. Shwetha Gowda",
+          "specialization": "Dental Surgeon",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-944780654"
+        },
+        {
+          "name": "Dr. Sowmya Kumar",
+          "specialization": "Gastroenterologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-947923579"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Anxiety Disorder",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Pooja Gowda",
+          "specialization": "ENT Specialist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-945074489"
+        },
+        {
+          "name": "Dr. Kiran Sharma",
+          "specialization": "Nephrologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-948546170"
+        },
+        {
+          "name": "Dr. Divya Reddy",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-941864641"
+        },
+        {
+          "name": "Dr. Kiran Singh",
+          "specialization": "Emergency Medicine",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-941663497"
+        },
+        {
+          "name": "Dr. Ramesh Sharma",
+          "specialization": "Physiotherapist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-944640933"
+        },
+        {
+          "name": "Dr. Latha Sharma",
+          "specialization": "Nephrologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-941257256"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Anxiety Disorder",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Venkatesh Reddy",
+          "specialization": "Dental Surgeon",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-944431161"
+        },
+        {
+          "name": "Dr. Karthik Sharma",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-945748945"
+        },
+        {
+          "name": "Dr. Karthik Naik",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-946174467"
+        },
+        {
+          "name": "Dr. Kiran Patel",
+          "specialization": "Urologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-948818250"
+        }
+      ]
+    },
+    {
+      "tag": "Depression",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Harish Naik",
+          "specialization": "Nephrologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-947219396"
+        },
+        {
+          "name": "Dr. Mahesh Singh",
+          "specialization": "Internal Medicine",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-944712363"
+        },
+        {
+          "name": "Dr. Harish Kumar",
+          "specialization": "General Physician",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-948005797"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Depression",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rajesh Sharma",
+          "specialization": "Nephrologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-947372653"
+        },
+        {
+          "name": "Dr. Rakesh Sharma",
+          "specialization": "Dental Surgeon",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-946663388"
+        },
+        {
+          "name": "Dr. Kiran Naik",
+          "specialization": "Dental Surgeon",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-943822492"
+        },
+        {
+          "name": "Dr. Harish Patel",
+          "specialization": "Pulmonologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-949192588"
+        },
+        {
+          "name": "Dr. Priya Gowda",
+          "specialization": "Internal Medicine",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-941567468"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Depression",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Naveen Rao",
+          "specialization": "General Physician",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-943306725"
+        },
+        {
+          "name": "Dr. Arun Sharma",
+          "specialization": "Pediatrician",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-941153368"
+        },
+        {
+          "name": "Dr. Venkatesh Gowda",
+          "specialization": "Gastroenterologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-942014184"
+        }
+      ]
+    },
+    {
+      "tag": "Panic Attack",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Naveen Naik",
+          "specialization": "General Physician",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-949929043"
+        },
+        {
+          "name": "Dr. Pooja Singh",
+          "specialization": "General Physician",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-949882154"
+        },
+        {
+          "name": "Dr. Harish Varma",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-941287605"
+        },
+        {
+          "name": "Dr. Vijay Singh",
+          "specialization": "Pulmonologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-942615878"
+        },
+        {
+          "name": "Dr. Vijay Kumar",
+          "specialization": "Neurologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-949832465"
+        },
+        {
+          "name": "Dr. Kiran Patel",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-942325722"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Panic Attack",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Karthik Naik",
+          "specialization": "Physiotherapist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-944789255"
+        },
+        {
+          "name": "Dr. Sowmya Reddy",
+          "specialization": "Internal Medicine",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-947799441"
+        },
+        {
+          "name": "Dr. Karthik Singh",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-941941452"
+        },
+        {
+          "name": "Dr. Arun Rao",
+          "specialization": "Pulmonologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-949386232"
+        },
+        {
+          "name": "Dr. Rashmi Patel",
+          "specialization": "Physiotherapist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-949861040"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Panic Attack",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Sunitha Sharma",
+          "specialization": "Physiotherapist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-945548220"
+        },
+        {
+          "name": "Dr. Neha Reddy",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-941552000"
+        },
+        {
+          "name": "Dr. Priya Patel",
+          "specialization": "General Physician",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-943419132"
+        }
+      ]
+    },
+    {
+      "tag": "Bipolar Disorder",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Ramesh Varma",
+          "specialization": "Pulmonologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-945034453"
+        },
+        {
+          "name": "Dr. Rakesh Singh",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-947439870"
+        },
+        {
+          "name": "Dr. Shwetha Kumar",
+          "specialization": "Pediatrician",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-946802559"
+        },
+        {
+          "name": "Dr. Neha Reddy",
+          "specialization": "Endocrinologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-942275374"
+        },
+        {
+          "name": "Dr. Mahesh Chowdary",
+          "specialization": "Emergency Medicine",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-947655572"
+        },
+        {
+          "name": "Dr. Shwetha Patel",
+          "specialization": "General Physician",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-948558977"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Bipolar Disorder",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Sunitha Patel",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-948245206"
+        },
+        {
+          "name": "Dr. Priya Chowdary",
+          "specialization": "Psychiatrist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-945955645"
+        },
+        {
+          "name": "Dr. Sunitha Reddy",
+          "specialization": "Pediatrician",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-943587398"
+        },
+        {
+          "name": "Dr. Karthik Kumar",
+          "specialization": "Psychiatrist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-947051545"
+        },
+        {
+          "name": "Dr. Anjali Reddy",
+          "specialization": "General Physician",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-948461429"
+        },
+        {
+          "name": "Dr. Divya Varma",
+          "specialization": "Dermatologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-942464604"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Bipolar Disorder",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rashmi Naik",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-949597330"
+        },
+        {
+          "name": "Dr. Rashmi Reddy",
+          "specialization": "General Physician",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-946937696"
+        },
+        {
+          "name": "Dr. Pooja Reddy",
+          "specialization": "Emergency Medicine",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-946443037"
+        },
+        {
+          "name": "Dr. Karthik Rao",
+          "specialization": "Gynecologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-947506196"
+        }
+      ]
+    },
+    {
+      "tag": "Schizophrenia",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Harish Gowda",
+          "specialization": "Neurologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-949742683"
+        },
+        {
+          "name": "Dr. Priya Singh",
+          "specialization": "Pulmonologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-945511711"
+        },
+        {
+          "name": "Dr. Sowmya Varma",
+          "specialization": "Dental Surgeon",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-942061446"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Schizophrenia",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rashmi Varma",
+          "specialization": "Endocrinologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-949124053"
+        },
+        {
+          "name": "Dr. Ramesh Patel",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-949318184"
+        },
+        {
+          "name": "Dr. Meena Chowdary",
+          "specialization": "Cardiologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-942794698"
+        },
+        {
+          "name": "Dr. Rajesh Varma",
+          "specialization": "General Physician",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-946573679"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Schizophrenia",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Mahesh Naik",
+          "specialization": "Nephrologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-943283789"
+        },
+        {
+          "name": "Dr. Sowmya Patel",
+          "specialization": "Emergency Medicine",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-949036449"
+        },
+        {
+          "name": "Dr. Mahesh Kumar",
+          "specialization": "Psychiatrist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-945889688"
+        },
+        {
+          "name": "Dr. Harish Naik",
+          "specialization": "Physiotherapist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-946467463"
+        },
+        {
+          "name": "Dr. Karthik Varma",
+          "specialization": "Psychiatrist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-942910720"
+        },
+        {
+          "name": "Dr. Rakesh Sharma",
+          "specialization": "Physiotherapist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-944018677"
+        }
+      ]
+    },
+    {
+      "tag": "ADHD",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Harish Naik",
+          "specialization": "Cardiologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-945887726"
+        },
+        {
+          "name": "Dr. Swapna Reddy",
+          "specialization": "Endocrinologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-943335038"
+        },
+        {
+          "name": "Dr. Arun Varma",
+          "specialization": "Neurologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-943586094"
+        }
+      ]
+    },
+    {
+      "tag": "Acute ADHD",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Karthik Reddy",
+          "specialization": "Gastroenterologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-949040224"
+        },
+        {
+          "name": "Dr. Rakesh Singh",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-948017921"
+        },
+        {
+          "name": "Dr. Pooja Rao",
+          "specialization": "Ophthalmologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-942425760"
+        },
+        {
+          "name": "Dr. Anjali Sharma",
+          "specialization": "Ophthalmologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-941743175"
+        },
+        {
+          "name": "Dr. Rakesh Singh",
+          "specialization": "Nephrologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-942777454"
+        },
+        {
+          "name": "Dr. Srinivas Reddy",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-949567725"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic ADHD",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Suresh Patel",
+          "specialization": "Psychiatrist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-949396422"
+        },
+        {
+          "name": "Dr. Rajesh Patel",
+          "specialization": "General Physician",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-942754047"
+        },
+        {
+          "name": "Dr. Sowmya Singh",
+          "specialization": "Pediatrician",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-943376915"
+        },
+        {
+          "name": "Dr. Divya Varma",
+          "specialization": "Nephrologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-944470657"
+        }
+      ]
+    },
+    {
+      "tag": "OCD",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Divya Naik",
+          "specialization": "Dermatologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-948590804"
+        },
+        {
+          "name": "Dr. Mahesh Reddy",
+          "specialization": "Gynecologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-942930810"
+        },
+        {
+          "name": "Dr. Srinivas Patel",
+          "specialization": "Dermatologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-945092180"
+        },
+        {
+          "name": "Dr. Vijay Kumar",
+          "specialization": "Infectious Disease Specialist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-946553084"
+        },
+        {
+          "name": "Dr. Pooja Singh",
+          "specialization": "Gastroenterologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-947795568"
+        },
+        {
+          "name": "Dr. Arun Kumar",
+          "specialization": "Pulmonologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-947636771"
+        }
+      ]
+    },
+    {
+      "tag": "Acute OCD",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Harish Chowdary",
+          "specialization": "Cardiologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-948206700"
+        },
+        {
+          "name": "Dr. Karthik Rao",
+          "specialization": "Cardiologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-945669851"
+        },
+        {
+          "name": "Dr. Shwetha Reddy",
+          "specialization": "Physiotherapist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-944136665"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic OCD",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Mahesh Sharma",
+          "specialization": "Gastroenterologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-945401559"
+        },
+        {
+          "name": "Dr. Naveen Naik",
+          "specialization": "Urologist",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-947520284"
+        },
+        {
+          "name": "Dr. Meena Singh",
+          "specialization": "Physiotherapist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-946837206"
+        },
+        {
+          "name": "Dr. Divya Naik",
+          "specialization": "Emergency Medicine",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-945990296"
+        },
+        {
+          "name": "Dr. Meena Chowdary",
+          "specialization": "Pediatrician",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-946254384"
+        }
+      ]
+    },
+    {
+      "tag": "PTSD",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Sunitha Varma",
+          "specialization": "Dermatologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-947263036"
+        },
+        {
+          "name": "Dr. Swapna Kumar",
+          "specialization": "Urologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-948016887"
+        },
+        {
+          "name": "Dr. Meena Kumar",
+          "specialization": "Physiotherapist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-948097413"
+        }
+      ]
+    },
+    {
+      "tag": "Acute PTSD",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Latha Gowda",
+          "specialization": "Pulmonologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-943799538"
+        },
+        {
+          "name": "Dr. Latha Varma",
+          "specialization": "ENT Specialist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-946277776"
+        },
+        {
+          "name": "Dr. Suresh Chowdary",
+          "specialization": "Internal Medicine",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-941160783"
+        },
+        {
+          "name": "Dr. Latha Kumar",
+          "specialization": "Cardiologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-949479842"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic PTSD",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Rashmi Naik",
+          "specialization": "Endocrinologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-949199017"
+        },
+        {
+          "name": "Dr. Priya Reddy",
+          "specialization": "Physiotherapist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-944699871"
+        },
+        {
+          "name": "Dr. Sowmya Rao",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-945843084"
+        },
+        {
+          "name": "Dr. Priya Naik",
+          "specialization": "Physiotherapist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-949569902"
+        },
+        {
+          "name": "Dr. Anjali Chowdary",
+          "specialization": "Dermatologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-947154919"
+        },
+        {
+          "name": "Dr. Pooja Rao",
+          "specialization": "Gastroenterologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-944666525"
+        }
+      ]
+    },
+    {
+      "tag": "Menstrual Cramps",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Anjali Sharma",
+          "specialization": "Gynecologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-948545256"
+        },
+        {
+          "name": "Dr. Kiran Patel",
+          "specialization": "Pediatrician",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-942969410"
+        },
+        {
+          "name": "Dr. Shwetha Sharma",
+          "specialization": "Cardiologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-946882609"
+        },
+        {
+          "name": "Dr. Swapna Chowdary",
+          "specialization": "Endocrinologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-943335975"
+        },
+        {
+          "name": "Dr. Venkatesh Sharma",
+          "specialization": "Internal Medicine",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-946885707"
+        },
+        {
+          "name": "Dr. Pooja Varma",
+          "specialization": "Emergency Medicine",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-943824903"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Menstrual Cramps",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Swapna Varma",
+          "specialization": "Gynecologist",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-945485272"
+        },
+        {
+          "name": "Dr. Vijay Reddy",
+          "specialization": "ENT Specialist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-941994652"
+        },
+        {
+          "name": "Dr. Kiran Kumar",
+          "specialization": "ENT Specialist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-943453557"
+        },
+        {
+          "name": "Dr. Swapna Patel",
+          "specialization": "Neurologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-949211754"
+        },
+        {
+          "name": "Dr. Rajesh Chowdary",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-947294347"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic Menstrual Cramps",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Ramesh Reddy",
+          "specialization": "Psychiatrist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-945667852"
+        },
+        {
+          "name": "Dr. Swapna Patel",
+          "specialization": "Gastroenterologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-946491002"
+        },
+        {
+          "name": "Dr. Rakesh Rao",
+          "specialization": "Pediatrician",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-947009980"
+        },
+        {
+          "name": "Dr. Ramesh Gowda",
+          "specialization": "Psychiatrist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-948208215"
+        },
+        {
+          "name": "Dr. Venkatesh Naik",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-945757902"
+        },
+        {
+          "name": "Dr. Mahesh Gowda",
+          "specialization": "Physiotherapist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-949142618"
+        }
+      ]
+    },
+    {
+      "tag": "PCOS",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Naveen Rao",
+          "specialization": "Internal Medicine",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-948710502"
+        },
+        {
+          "name": "Dr. Srinivas Reddy",
+          "specialization": "Pulmonologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-948659103"
+        },
+        {
+          "name": "Dr. Srinivas Singh",
+          "specialization": "Cardiologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-946064462"
+        },
+        {
+          "name": "Dr. Priya Varma",
+          "specialization": "Pediatrician",
+          "hospital": "Sunrise Hospital, Warangal",
+          "contact": "+91-945200835"
+        },
+        {
+          "name": "Dr. Ramesh Patel",
+          "specialization": "Pulmonologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-947649508"
+        }
+      ]
+    },
+    {
+      "tag": "Acute PCOS",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Harish Sharma",
+          "specialization": "Endocrinologist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-942596917"
+        },
+        {
+          "name": "Dr. Srinivas Sharma",
+          "specialization": "Dental Surgeon",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-943226333"
+        },
+        {
+          "name": "Dr. Rakesh Sharma",
+          "specialization": "Urologist",
+          "hospital": "Star Hospitals, Warangal",
+          "contact": "+91-941155809"
+        },
+        {
+          "name": "Dr. Srinivas Patel",
+          "specialization": "Dermatologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-943217531"
+        },
+        {
+          "name": "Dr. Latha Reddy",
+          "specialization": "Neurologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-942498726"
+        }
+      ]
+    },
+    {
+      "tag": "Chronic PCOS",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Anjali Patel",
+          "specialization": "Ophthalmologist",
+          "hospital": "Care & Cure Hospital, Warangal",
+          "contact": "+91-943300647"
+        },
+        {
+          "name": "Dr. Karthik Kumar",
+          "specialization": "ENT Specialist",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-949900451"
+        },
+        {
+          "name": "Dr. Rakesh Rao",
+          "specialization": "Emergency Medicine",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-948383643"
+        }
+      ]
+    },
+    {
+      "tag": "Kidney Stones",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Harish Sharma",
+          "specialization": "ENT Specialist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-948421969"
+        },
+        {
+          "name": "Dr. Venkatesh Reddy",
+          "specialization": "Dermatologist",
+          "hospital": "Warangal General Hospital",
+          "contact": "+91-943066235"
+        },
+        {
+          "name": "Dr. Rakesh Singh",
+          "specialization": "Ophthalmologist",
+          "hospital": "Apollo Clinic Warangal",
+          "contact": "+91-946276495"
+        },
+        {
+          "name": "Dr. Rajesh Sharma",
+          "specialization": "Orthopedic Surgeon",
+          "hospital": "Kakatiya Hospital, Warangal",
+          "contact": "+91-945163551"
+        },
+        {
+          "name": "Dr. Pooja Chowdary",
+          "specialization": "Emergency Medicine",
+          "hospital": "Swarna Hospitals",
+          "contact": "+91-945780177"
+        }
+      ]
+    },
+    {
+      "tag": "Acute Kidney Stones",
+      "medicines": [
+        "Paracetamol 500mg",
+        "Multivitamin (supportive)"
+      ],
+      "doctor": [
+        {
+          "name": "Dr. Naveen Varma",
+          "specialization": "Cardiologist",
+          "hospital": "Sri Karthikeya Hospital",
+          "contact": "+91-949548370"
+        },
+        {
+          "name": "Dr. Venkatesh Singh",
+          "specialization": "Gynecologist",
+          "hospital": "MGM Hospital, Warangal",
+          "contact": "+91-945015476"
+        },
+        {
+          "name": "Dr. Latha Singh",
+          "specialization": "Dermatologist",
+          "hospital": "MedCity Hospital, Warangal",
+          "contact": "+91-949381604"
+        }
+      ]
+    }
+  ]
+}
